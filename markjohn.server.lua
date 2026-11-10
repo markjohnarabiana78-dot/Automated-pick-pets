@@ -1,3 +1,7 @@
+
+-- Garden System
+-- Place this Script inside ServerScriptService
+
 local garden = Instance.new("Part")
 garden.Name = "MyGarden"
 garden.Size = Vector3.new(12, 1, 12)
